@@ -2,7 +2,13 @@
 
 <p align="center">
   <br>
-  <img src="./images/common/logo-sample.jpeg">
+  <img src="https://powerful-daegu.s3.ap-northeast-2.amazonaws.com/readme/PowerfulDaegu.png">
+  <br>
+  <br>
+  <img src="https://powerful-daegu.s3.ap-northeast-2.amazonaws.com/readme/Powerful_main.png">
+  <br>
+  <br>
+  <img src="https://powerful-daegu.s3.ap-northeast-2.amazonaws.com/readme/Powerful_map.png">
   <br>
 </p>
 
